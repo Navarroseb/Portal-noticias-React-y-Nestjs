@@ -1,0 +1,14 @@
+*{
+    background: darkgrey;
+}
+
+.titulares{
+    display: flex;
+
+}
+#carouselExampleIndicators{
+    width: 640px;
+    height: 360px;
+};
+
+
